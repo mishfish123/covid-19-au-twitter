@@ -30,5 +30,5 @@ A short description of the files in this repository are shown below:
 Aside from promotions, I also manually collected data for cruiseships and the Northern Territory and Tasmania. Notably some of my work shown in the images below: 
 
 
-
+#covid-19
 ![](Images/cruiseships.png)
