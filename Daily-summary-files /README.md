@@ -35,4 +35,4 @@ Follow this tutorial to set up the google sheet:  https://www.youtube.com/watch?
   * Daily - twitter2.csv = twitter-1.psd
 
   12) adjust arrows and change plus signs. 
-  13) export each psd file as a pdf. 
+  13) export each psd file as a png files. 
