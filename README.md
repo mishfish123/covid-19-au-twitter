@@ -30,3 +30,4 @@ Aside from promotions, I also manually collected data for cruiseships and the No
 
 
 
+![](Images/cruiseships.png)
