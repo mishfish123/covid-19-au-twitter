@@ -3,7 +3,7 @@ __Description__
 
 A couple of simple scripts I used when I was in responsible for twitter promotions at https://covid-19-au.com/, from April 2020 to the start of May 2020 (6th of May 2020). During this time I was responsible for 
 
-* co-ordinating posts on the twitter platform  
+* co-ordinating posts on the twitter platform(https://twitter.com/covid19augithub)
 * developing digital marketing material 
 * writing pitches and creating promotional videos about new website features on the twitter platform
 * writing the daily summary of content website, which was then put together initially by Dil Kaur, and subsequently automated by myself. The summary was used as promotional material for facebook, twitter and instagram. Examples can be seen both on twitter and facebook.  See https://twitter.com/covid19augithub/status/1252224371923378176 and https://www.facebook.com/photo?fbid=131977335118520&set=pcb.131977535118500. 
