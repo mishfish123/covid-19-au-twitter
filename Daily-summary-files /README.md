@@ -27,12 +27,12 @@ Follow this tutorial to set up the google sheet:  https://www.youtube.com/watch?
 10) open each photoshop file. 
 11) go to image > variables > datasets > import.. then select the csv file that serves as the dataset of each page ,then press apply. 
 
-  Daily - total.csv = dailyreport-1.psd
-  Daily - annoucements - facebook.csv = dailyreport-2.psd
-  Daily - confirmed.csv = dailyreportsmall-confirmed.psd
-  Daily - testing.csv = dailyreportsmall-tested.psd
-  Daily - twitter1.csv = Twitter-1.psd
-  Daily - twitter2.csv = twitter-1.psd
+  * Daily - total.csv = dailyreport-1.psd
+  * Daily - annoucements - facebook.csv = dailyreport-2.psd
+  * Daily - confirmed.csv = dailyreportsmall-confirmed.psd
+  * Daily - testing.csv = dailyreportsmall-tested.psd
+  * Daily - twitter1.csv = Twitter-1.psd
+  * Daily - twitter2.csv = twitter-1.psd
 
   12) adjust arrows and change plus signs. 
   13) export each psd file as a pdf. 
