@@ -6,6 +6,8 @@ Follow this tutorial to set up the google sheet:  https://www.youtube.com/watch?
 2) Paste email from credentials into google sheet 
 3) pip install gspread oauth2client
 
+File structure: https://docs.google.com/spreadsheets/d/1c96n-otnumr9v8QxPlrAK68weK1hElj08qx2xoQcMe4/edit?usp=sharing
+
 ---
 
 4) run the daily_summary.py  module 
