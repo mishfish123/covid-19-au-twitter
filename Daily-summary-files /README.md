@@ -7,7 +7,7 @@ Follow this tutorial to set up the google sheet:  https://www.youtube.com/watch?
 3) pip install gspread oauth2client
 
 File structure: https://docs.google.com/spreadsheets/d/1c96n-otnumr9v8QxPlrAK68weK1hElj08qx2xoQcMe4/edit?usp=sharing
-
+or see daily.xslx, just export to google sheets. 
 ---
 
 4) run the daily_summary.py  module 
@@ -15,7 +15,6 @@ File structure: https://docs.google.com/spreadsheets/d/1c96n-otnumr9v8QxPlrAK68w
 6) manually update today and yesterday's death totals to sheet1. 
 7) manually update national annoucements on total sheet (National, or the last cell). 
 8) manually update each state annoucements on "annoucement - facebook" sheet 
-9) 
 9) download confirmed, testing, total, announcements-facebook, twitter1 and twitter2 sheets as csv files. 
 10) open each photoshop file. 
 11) go to image > variables > datasets > import.. then select the csv file that serves as the dataset of each page ,then press apply. 
